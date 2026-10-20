@@ -1,0 +1,9 @@
+[submodule "NanoUI-storybook"]
+	path = NanoUI-storybook
+	url = https://github.com/CristobalJJG/NanoUI-storybook.git
+[submodule "NanoUI-components"]
+	path = NanoUI-components
+	url = https://github.com/CristobalJJG/nano-ui-components.git
+[submodule "NanoUI-web"]
+	path = NanoUI-web
+	url = https://github.com/CristobalJJG/NanoUI-web.git
